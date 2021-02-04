@@ -1,4 +1,4 @@
 # maintainance
 
 
-#### Simple maintainace page display
+#### Simple Site Maintenance page display
